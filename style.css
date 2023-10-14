@@ -1,0 +1,56 @@
+body{
+    background-color: #000000;
+}
+
+.about span{
+    color: #e60a15;
+    font-weight: bolder;
+
+}
+
+#mn{
+    color: blanchedalmond;
+    font-size: 4rem;
+}
+.about{
+    border-radius: 25px;
+    /* background-color:  #141414; */
+
+}
+
+.col1, .col2{
+    background-color:  #141414;
+    border-radius: 25px;
+    padding: 2.5rem 2rem;
+}
+
+
+.cnt3 *{
+    color: white;
+    background-color:  #141414;
+
+}
+
+.cnt3 .l{
+   border-radius: 25px;
+    
+}
+
+.cnt4 *{
+    color: whitesmoke;
+}
+
+
+
+.navlm{
+    border-radius: 16px;
+    background-color:#141414;
+    
+}
+
+
+
+a{
+    text-decoration: none;
+
+}
